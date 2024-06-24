@@ -45,4 +45,9 @@
     <input type="text" id="abreviacion" name="abreviacion" required><br><br>
 
     <label for="monedaCorriente">Moneda Corriente:</label>
-    <input type="checkbox" id="monedaCorriente" name="monedaCorri
+    <input type="checkbox" id="monedaCorriente" name="monedaCorriente"><br><br>
+
+    <button type="submit">Actualizar</button>
+</form>/
+</body>
+</html>
